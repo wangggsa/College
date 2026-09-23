@@ -1,4 +1,4 @@
-# Tugas Dasar Pemrograman - Buku Hanly, Hal. 123
+# Tugas Dasar Pemrograman - Buku Hanly, Halaman 123
 
 ## No_2.c — Hydroelectric Dam Power Estimator
 
