@@ -1,0 +1,9 @@
+# Compiled binaries
+No_2
+No_7
+No_10
+*.exe
+*.out
+
+# Object files
+*.o
